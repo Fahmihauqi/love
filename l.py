@@ -1,5 +1,3 @@
-
-
 n = input('Masukan nilai kamu : ')
 r = 6
 ni = int(n)
